@@ -1,1 +1,22 @@
+*{
+  border-box:box-sizing;
+  margin:0;
+  padding:0;
+}
 
+body{
+     font-family: monospace;  
+}
+
+header{
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#2940535c, #2940535c), url(https://i.pinimg.com/736x/b3/36/73/b3367376d16324e6b8fb10ee6f124cce.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #60e59d;
+}

@@ -15,7 +15,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#0a1722a8, #0a1722a8), url(https://i.pinimg.com/736x/8d/aa/eb/8daaeb66635d5fb91c45e4d992d5b22a.jpg);
+    background: linear-gradient(#0a1722a8, #0a1722a8), url(aaa/watchtower.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -59,7 +59,7 @@ h1{
 }
 
 article:first-child{
-  background: linear-gradient(#1579637c,#1579637c), url(https://i.pinimg.com/736x/32/e3/c3/32e3c39c3145df7b0bd5e0f669428b99.jpg);
+  background: linear-gradient(#1579637c,#1579637c), url(aaa/flowerfruit.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -72,7 +72,7 @@ article:first-child{
 
 article:nth-child(3){
   color:#eee;
-  background: linear-gradient(#4a791528,#4a791528), url(https://i.pinimg.com/736x/7a/a5/96/7aa596b27b902875fc81e7e9b0085ae4.jpg);
+  background: linear-gradient(#4a791528,#4a791528), url(aaa/dojo.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -85,7 +85,7 @@ article:nth-child(3){
 
 article:nth-child(5){
   color: #eee;
-  background: linear-gradient(#43440c9a,#43440c9a), url(https://i.pinimg.com/736x/49/ef/1c/49ef1c05d9a15b87c4aaf7d512e98c8e.jpg);
+  background: linear-gradient(#43440c9a,#43440c9a), url(aaa/jjk.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -97,7 +97,7 @@ article:nth-child(5){
 }
 
 article:nth-child(7){
-  background: linear-gradient(#23804a65,#23804a65), url(https://i.pinimg.com/736x/c3/07/8d/c3078da599dec7e485a61147ca36e97d.jpg);
+  background: linear-gradient(#23804a65,#23804a65), url(aaa/minecraft.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -109,7 +109,7 @@ article:nth-child(7){
 }
 
 article:nth-child(9){
-  background: linear-gradient(#b6b84a5d,#b6b84a5d), url(https://i.pinimg.com/736x/6d/8d/3f/6d8d3faab154a81621a53cbdf7e33123.jpg);
+  background: linear-gradient(#b6b84a5d,#b6b84a5d), url(aaa/cat.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -122,7 +122,7 @@ article:nth-child(9){
 
 article:nth-child(11){
   color: #eee;;
-  background: linear-gradient(#3a2a2a5d,#3a2a2a5d), url(https://i.pinimg.com/736x/f7/72/25/f77225a95088ac618510ff29905cb120.jpg);
+  background: linear-gradient(#3a2a2a5d,#3a2a2a5d), url(aaa/tv.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
